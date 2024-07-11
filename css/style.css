@@ -41,7 +41,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: 3px solid black;
     transition: all 0.75s;
   }
   
@@ -137,6 +136,10 @@
   }
   .btn--hold {
     top: 46.1rem;
+  }
+
+  .fa-solid {
+    margin-right: 0.5em;
   }
   
   .btn:active {
